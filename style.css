@@ -1,0 +1,5 @@
+body { font-family: Arial, sans-serif; text-align:center; padding:20px; background:#f4f4f4; }
+button { margin:10px; padding:12px 20px; font-size:16px; border:none; border-radius:8px; background:#6200ea; color:#fff; cursor:pointer; }
+button:disabled { background:#aaa; cursor:not-allowed; }
+#quizContainer { max-width:600px; margin:auto; background:#fff; padding:20px; border-radius:12px; box-shadow:0 4px 8px rgba(0,0,0,0.1); }
+#timer { font-weight:bold; margin-top:10px; }
